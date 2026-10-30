@@ -1,0 +1,11 @@
+holdout_row,Contract,tenure,MonthlyCharges,InternetService,PaymentMethod,TechSupport,OnlineSecurity,PaperlessBilling,SeniorCitizen,actual,predicted,error_type,probability_churn
+607,Month-to-month,35,100.5,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,1,1,0,False negative,0.4457031
+103,Month-to-month,34,109.8,Fiber optic,Mailed check,No,Yes,Yes,0,1,0,False negative,0.4442734
+744,Month-to-month,4,61.45,DSL,Credit card (automatic),Yes,No,No,0,1,0,False negative,0.44218853
+717,One year,53,106.95,Fiber optic,Credit card (automatic),No,Yes,Yes,0,1,0,False negative,0.43034515
+874,Month-to-month,5,53.85,DSL,Credit card (automatic),Yes,Yes,No,0,1,0,False negative,0.42788073
+733,Month-to-month,1,79.15,Fiber optic,Mailed check,No,No,Yes,0,0,1,False positive,0.9518954
+41,Month-to-month,2,91.45,Fiber optic,Electronic check,No,No,Yes,0,0,1,False positive,0.93868846
+889,Month-to-month,2,84.05,Fiber optic,Electronic check,No,No,Yes,1,0,1,False positive,0.9374507
+995,Month-to-month,7,94.1,Fiber optic,Electronic check,No,No,Yes,0,0,1,False positive,0.9364232
+1222,Month-to-month,1,74.3,Fiber optic,Electronic check,No,No,No,1,0,1,False positive,0.9319711
